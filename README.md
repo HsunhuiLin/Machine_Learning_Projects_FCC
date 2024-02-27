@@ -16,3 +16,7 @@ Description of each task:
 4. __Neural Network SMS Text Classifier__
 
    Classifying SMS messages as either spam or ham with machine learning model. Texts was preprocessed using One-Hot Encoding method.
+
+5. __Rock-Paper_Scissors__
+
+   Creating program to beat multiple opponent players (different algorithms) in rock, paper, scissors. Essentially 3 previous plays from the opponent are gathered to predict their next most possible move. 
