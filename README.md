@@ -1,4 +1,4 @@
-__Machine Learning Projects for FreeCodeCamp Developer Certification__
+##__Machine Learning Projects for FreeCodeCamp Developer Certification__
 
 Description of each task:
 1. __Book Recommendation Engine using KNN__
@@ -14,3 +14,4 @@ Description of each task:
    Using a regression algorithm to predict healthcare expenses from a set of basic personal information including age, sex, BMI, number of children, smoking habit and region of residency. Categorical data are replaced with numeric values. Model is constructed using the Keras API from TensorFlow.  
 
 4. __Neural Network SMS Text Classifier__
+     Classifying SMS messages as either spam or ham with machine learning model. Texts was preprocessed using One-Hot Encoding method.
